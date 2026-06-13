@@ -1,45 +1,31 @@
-// manga.json V1.0 Rev 0
-{
-  "manga_id": "a-dragonslayers-peerless-regression",
-  "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "The Dragon-Slaying Regressor's Return / 용살자의 역행",
-  "status": "Ongoing",
-  "author": "Swimming Stone",
-  "artist": "Blue J",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Regression",
-    "Romance"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 4.8,
-  "synopsis": "Setelah gagal melindungi umat manusia dari kehancuran total oleh Raja Naga, pahlawan pembantai naga terakhir kembali ke masa lalunya sebelum bencana dimulai. Berbekal ingatan masa depan dan kemampuan bertarung yang tiada tanding, ia bertekad mengumpulkan sekutu dan menghancurkan sarang naga sebelum sejarah kelam terulang kembali.",
-  "cover_url": "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/cover.jpg",
-  "chapters": [
-    {
-      "chapter_number": "01",
-      "chapter_title": "Prologue: Hari Esok yang Hancur",
-      "images": [
-        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/001.jpg",
-        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/002.jpg",
-        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/003.jpg",
-        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/004.jpg",
-        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/005.jpg"
-      ]
-    },
-    {
-      "chapter_number": "02",
-      "chapter_title": "Kesempatan Kedua",
-      "images": [
-        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/001.jpg",
-        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/002.jpg",
-        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/003.jpg",
-        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/004.jpg",
-        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/005.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "manga_id": "a-dragonslayers-peerless-regression",
+    "title": "A Dragonslayer’s Peerless Regression",
+    "alternative_title": "The Dragon-Slaying Regressor's Return / 용살자의 역행",
+    "status": "Ongoing",
+    "author": "Swimming Stone",
+    "artist": "Blue J",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Regression",
+      "Romance"
+    ],
+    "type": "Manhwa",
+    "release_year": 2024,
+    "rating": 4.8,
+    "synopsis": "Setelah gagal melindungi umat manusia dari kehancuran total oleh Raja Naga, pahlawan pembantai naga terakhir kembali ke masa lalunya sebelum bencana dimulai. Berbekal ingatan masa depan dan kemampuan bertarung yang tiada tanding, ia bertekad mengumpulkan sekutu dan menghancurkan sarang naga sebelum sejarah kelam terulang kembali.",
+    "cover_url": "https://raw.githubusercontent.com/ungguldn/monsdata/main/manga/a-dragonslayers-peerless-regression/cover.jpg",
+    "chapters": [
+      {
+        "chapter_number": "01",
+        "chapter_title": "Prologue: Hari Esok yang Hancur",
+        "images": [
+          "https://raw.githubusercontent.com/ungguldn/monsdata/main/manga/a-dragonslayers-peerless-regression/ch-01/001.jpg"
+        ]
+      }
+    ]
+  }
+]
