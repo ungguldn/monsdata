@@ -7,11 +7,9 @@
     "author": "Swimming Stone",
     "artist": "Blue J",
     "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Regression",
-      "Romance"
+      "action",
+      "fantasy",
+      "romance"
     ],
     "type": "Manhwa",
     "release_year": 2024,
